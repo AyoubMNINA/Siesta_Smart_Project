@@ -20,14 +20,6 @@ Technologies Used
     AI/ML: Python, TensorFlow, scikit-learn
     Hosting: AWS, Azure, or Google Cloud Platform ??
 
-Getting Started
-Prerequisites
-
-    Node.js and npm installed
-    Python and pip installed
-    MongoDB or PostgreSQL database setup
-    AWS/Azure/GCP account for deployment
-
 
 License
 
