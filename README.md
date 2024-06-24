@@ -1,7 +1,7 @@
 # Siesta_Smart_Project
 Introduction
 
-Welcome to Siesta_Smart_Project! This project is designed to be a Software as a Service (SaaS) or a graphical user interface (GUI) for a Property Management System (PMS) optimized with Artificial Intelligence (AI) and Machine Learning (ML) technologies. Our goal is to enhance the efficiency and effectiveness of property management through advanced technology solutions.
+Welcome to Siesta_Smart_Project! This project is designed to be a Software as a Service (SaaS) for a Property Management System (PMS) optimized with Artificial Intelligence (AI) and Machine Learning (ML) technologies. Our goal is to enhance the efficiency and effectiveness of property management through advanced technology solutions.
 Features
 
     AI and ML Integration: Leveraging AI and ML to optimize property management processes.
