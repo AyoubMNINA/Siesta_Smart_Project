@@ -13,11 +13,12 @@ Features
 
 Technologies Used
 
-    Frontend: React, Angular, or Vue (choose based on your preference)
-    Backend: Node.js, Express.js
+    Frontend: Python
+    Backend: Python
+    GUI: PyQt5
     Database: MongoDB, PostgreSQL
     AI/ML: Python, TensorFlow, scikit-learn
-    Hosting: AWS, Azure, or Google Cloud Platform
+    Hosting: AWS, Azure, or Google Cloud Platform ??
 
 Getting Started
 Prerequisites
